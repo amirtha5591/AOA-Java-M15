@@ -1,6 +1,7 @@
 
 # EX 5A 0/1 Knapsack Problem - Branch&Bound 
-## NAME: AMIRTHAVARSHINI.R.D
+## DEVELOPED BY: AMIRTHAVARSHINI.R.D
+## REG NO: 212223040013
 ## DATE:24/08/26
 ## AIM:
 To Write a Java program to solve 0/1 Knapsack problem using Branch and Bound Approach.
