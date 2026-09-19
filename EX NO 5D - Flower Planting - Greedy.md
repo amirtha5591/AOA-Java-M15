@@ -1,6 +1,7 @@
 
 # EX 5D Flower Planting.
-## NAME: AMIRTHAVARSHINI.R.D
+## DEVELOPED BY: AMIRTHAVARSHINI.R.D
+## REG NO: 212223040013
 ## DATE:24/08/26
 ## AIM:
 To write a Java program to for given constraints.
